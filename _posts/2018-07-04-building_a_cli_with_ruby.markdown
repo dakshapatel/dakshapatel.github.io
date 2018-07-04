@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Building a CLI with Ruby"
-date:       2018-07-04 06:25:19 +0000
+date:       2018-07-04 02:25:20 -0400
 permalink:  building_a_cli_with_ruby
 ---
 
